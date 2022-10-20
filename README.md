@@ -11,8 +11,8 @@ add some gids
 enjoy
 
 todo:
-content-type filter
-author wallet
-gif remove
-full wallet integration
-rewrite anchor to full solana-rust code
+content-type filter,
+author wallet,
+gif remove,
+full wallet integration,
+rewrite anchor to full solana-rust code...
